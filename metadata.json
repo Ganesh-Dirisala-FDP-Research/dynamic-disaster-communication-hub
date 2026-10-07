@@ -1,0 +1,7 @@
+{
+  "name": "Safety Team",
+  "description": "Decentralized infrastructure-free disaster telemetry, predictive flood hydrology, and edge-AI mesh ecosystem for extreme blackout survival.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
